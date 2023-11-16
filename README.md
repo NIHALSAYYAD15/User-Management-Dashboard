@@ -1,10 +1,46 @@
+# User Management Dashboard
+This project is a user management dashboard built with React and Next.js.
+
+## Getting Started
+To run this project locally, follow these steps:
+
+### Prerequisites
+Make sure you have the following installed on your machine:
+- Node.js
+- npm (Node Package Manager)
+
+### Installation
+  Clone the repository:
+   git clone https://github.com/NIHALSAYYAD15/User-Management-Dashboard.git
+
+#### Navigate to the project directory:
+cd User-Management-Dashboard
+
+#### Install dependencies:
+npm install
+
+#### Running the Project
+##### Run the development server:
+npm run dev
+
+#### The application will be accessible at http://localhost:3000/.
+
+## Additional Information
+The application uses Server-Side Rendering (SSR) with Next.js for improved performance.
+Styling is implemented using CSS without relying on external component libraries.
+Feel free to explore the code and make any necessary adjustments for your use case.
+
+
+
+
+//////
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```  
 npm run dev
 # or
 yarn dev
